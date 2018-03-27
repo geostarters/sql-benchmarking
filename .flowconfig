@@ -1,0 +1,9 @@
+[ignore]
+.*/node_modules/flow-coverage-report/.*
+.*/node_modules/documentation/.*
+
+[options]
+munge_underscores=true
+
+[version]
+0.64.0

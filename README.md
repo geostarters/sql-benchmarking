@@ -71,4 +71,4 @@ where
 | __iterationNumber__ | The number of iterations |
 
 ### Output files
-In addition of the summary file, a number of JSON files with the name _timestamp_input_file_name_iteration.json are created. Those give much more detail of the benchmark run, giving a summary of the timings of each sql instruction run in a given iteration. The files used as SQL clean-up are not benchmarked.
+In addition of the summary file, a number of JSON files with the name _timestamp_input_file_name_iteration.json_ are created. Those give much more detail of the benchmark run, giving a summary of the timings of each sql instruction run in a given iteration. The files used as SQL clean-up are not benchmarked.

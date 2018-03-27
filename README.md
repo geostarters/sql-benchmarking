@@ -60,6 +60,7 @@ A JSON file with the name _timestamp.json_ is generated with the summary of the 
 ]
 ```
 where 
+
 | Parameter name        | Description           |
 | ------------- |:-------------:|
 | __name__ | The sql file used by this test |
